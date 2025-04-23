@@ -1,9 +1,6 @@
-//
+//Justin Stauffer
 //  ContentView.swift
 //  Tic-Tac-Toe
-//
-
-//
 
 // Importing SwiftUI for UI development
 import SwiftUI
